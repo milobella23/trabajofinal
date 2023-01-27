@@ -1,0 +1,48 @@
+
+
+*{color:black;
+  font-family: 'Quicksand', sans-serif;
+    }
+    body{width: 1163px;
+        height: 1000px;
+        background-color: rgb(247, 243, 243);
+    }
+   img#posicion{border-radius: 100%;
+width: 250px;
+height: 250px
+
+
+   }
+  div#lateralderecho {
+
+    width: 730px;
+    height: 500px;
+    float: right;
+    margin: 10px;
+    padding: 25px;
+   
+   }
+   /**nombres y apellido, empleo actual*/
+    section#centro{
+        float:right;
+        width: 750px;
+       font-size: 23px;
+        height: 150px;
+        background-color: burlywood;
+   margin-left: 5px;
+        padding-left: 55px;
+    }
+
+    
+   
+   
+    #general{
+      width: 350px;
+    height: 1000px;
+       float: left;
+        margin:auto;
+     background-color:cornflowerblue
+      
+      }
+      
+      
